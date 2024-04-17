@@ -1,0 +1,31 @@
+#table {
+    Border : 2px solid black;
+    border-collapse: collapse;
+}
+.duongVien {
+    /*width: 200px;*/
+    /*height: 200px;*/
+    border: 1px solid black;
+    /*margin: 10px;*/
+    padding: 5px;
+}
+.duongVien1 {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: khaki;
+}
+#dongCam {
+    background-color: coral;
+}
+#mauXanh {
+    color: blue;
+}
+div {
+    margin-left: 130px;
+    text-transform: uppercase;
+    font-size: 200%;
+    font-weight: bold;
+}
+.canLePhai {
+    text-align: right;
+}
